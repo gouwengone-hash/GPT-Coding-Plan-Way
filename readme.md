@@ -6,8 +6,8 @@
 
 **后续本项目会持续更新 GPT 官方活动指南**，请关注。
 
-2025/05/18 优惠码
-
+2025/05/22 法国节点   https://chatgpt.com/?promoCode=thinkiafr
+2025/05/25 墨西哥节点 https://chatgpt.com/?promoCode=thinkiamx
 ## 一、背景与目标
 
 国区目前无法直接订阅 OpenAI 的 coding plan 相关计划，且标准价格偏高。我的核心诉求不是单纯获得 ChatGPT Plus，而是希望低价拿到更适合 coding 工作流的账号能力，尤其是：
